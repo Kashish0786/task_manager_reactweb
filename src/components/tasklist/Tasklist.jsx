@@ -1,8 +1,8 @@
 import React from 'react'
-import Accept from './accept'
+import Accept from './Accept'
 import New from './New'
-import Complete from './complete'
-import Failed from './failed'
+import Complete from './Complete'
+import Failed from './Failed'
 
 const Tasklist = ({data}) => {
   return (
