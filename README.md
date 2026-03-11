@@ -41,6 +41,7 @@ This project demonstrates strong frontend development skills including
 ### 2. Employee Dashboard
 - **Email:** employee1@gmail.com  
 - **Password:** 123
+- Link: https://task-manager-reactweb-h2sr12t9m-kashishs-projects-7ae8e8dd.vercel.app/
 
 ![WhatsApp Image 2026-03-11 at 11 51 46 PM](https://github.com/user-attachments/assets/bfeea08b-8f8b-4e6b-80bd-5b16fa63626e)
 ![WhatsApp Image 2026-03-11 at 11 49 04 PM](https://github.com/user-attachments/assets/e16c4854-f98b-4f88-93d3-5600047fd93e)
